@@ -6,12 +6,10 @@ Feel free to visit my LinkedIn Profile for more information: https://www.linkedi
 
 <h2>Work Experience</h2>
 
-<p align="center">
-    <a href="https://www.jnj.com/discover-j-j"><img src="./images/JNJ.png" hspace="20" width='150'></a>
-    <a href="https://www.singaporeair.com/"><img src="./images/singapore-airlines.png" hspace="20" width='150'></a>
-    <a href="https://www.tsc.ai/"><img src="./images/tsc-ai.png" hspace="20" width='150'></a>
-    <a href="https://moaah.com/"><img src="./images/moaah.png" hspace="20" width='150'></a>
-</p>
+<a href="https://www.jnj.com/discover-j-j" align="center"><img src="./images/JNJ.png" hspace="20" width='150'></a>
+<a href="https://www.singaporeair.com/" align="center"><img src="./images/singapore-airlines.png" hspace="20" width='150'></a>
+<a href="https://www.tsc.ai/" align="center"><img src="./images/tsc-ai.png" hspace="20" width='150'></a>
+<a href="https://moaah.com/" align="center"><img src="./images/moaah.png" hspace="20" width='150'></a>
 
 <h2>My Projects</h2>
 
