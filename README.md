@@ -3,15 +3,15 @@
 <h2>Work Experience</h2>
 
 <p align="center">
-    <img src="./images/JNJ.png" hspace="20" width='150'>
-    <img src="./images/singapore-airlines.png" hspace="20" width='150'>
-    <img src="./images/tsc-ai.png" hspace="20" width='150'>
-    <img src="./images/moaah.png" hspace="20" width='150'>
+    <a href="https://www.jnj.com/"><img src="./images/JNJ.png" hspace="20" width='150'></a>
+    <a href="https://www.singaporeair.com/"><img src="./images/singapore-airlines.png" hspace="20" width='150'></a>
+    <a href="https://www.tsc.ai/"><img src="./images/tsc-ai.png" hspace="20" width='150'></a>
+    <a href="https://moaah.com/"><img src="./images/moaah.png" hspace="20" width='150'></a>
 </p>
 
 <h2>My Projects</h2>
 
- Projects | <div style="width:1000px">Description</div> | <div style="width:290px">Link</div>
+ Projects | Description | Link
  --- | --- | ---
  🕵️ KafkaInsight | Simulating A Real Time Monitoring System | https://github.com/kevinchs0808/KafkaInsight/tree/main
  🔀 HyperSpark | Parallelizing Your Model Finetuning | https://github.com/kevinchs0808/HyperSpark/tree/main
