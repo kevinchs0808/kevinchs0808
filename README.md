@@ -86,12 +86,6 @@ Feel free to visit my LinkedIn Profile for more information: https://www.linkedi
 - Scala
 - TypeScript
 
-<h3>CI/CD</h3>
-
-- Docker
-- Jenkins
-- JFrog
-
 <h3>Model Optimization</h3>
 
 - Knowledge Distillation
