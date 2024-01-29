@@ -33,6 +33,7 @@ Hi there 👋, My name is **Kevin Christian**, originally from 🇮🇩 **Indone
 - LangChain
 
 <h3>Time Series Forecasting</h3>
+
 - ARIMA
 - NBEATS
 - Holt Winters
@@ -40,18 +41,21 @@ Hi there 👋, My name is **Kevin Christian**, originally from 🇮🇩 **Indone
 - Ensembling Method
 
 <h3>Graph Network Modelling</h3>
+
 - Neo4j
 - Community Detection
 - NetworkX
 - Graph Neural Network (familiar with basic theory)
 
 <h3>Data Engineering</h3>
+
 - Apache Spark
 - Apache Kafka
 - Apache Airflow
 - Apache Hadoop (familiar with basic theory)
 
 <h3>Cloud Computing</h3>
+
 - AWS S3
 - AWS Cognito
 - AWS IAM
@@ -59,6 +63,7 @@ Hi there 👋, My name is **Kevin Christian**, originally from 🇮🇩 **Indone
 - AWS Textract
 
 <h3>Database System</h3>
+
 - MySQL
 - MongoDB
 - Vector Database
@@ -66,21 +71,25 @@ Hi there 👋, My name is **Kevin Christian**, originally from 🇮🇩 **Indone
 - ElasticSearch
 
 <h3>CI/CD</h3>
+
 - Docker
 - Jenkins
 - JFrog
 
 <h3>Programming Language</h3>
+
 - Python
 - Scala
 - TypeScript
 
 <h3>CI/CD</h3>
+
 - Docker
 - Jenkins
 - JFrog
 
 <h3>Model Optimization</h3>
+
 - Knowledge Distillation
 - Mixed Precision Training
 
