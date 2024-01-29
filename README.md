@@ -11,7 +11,7 @@
 
 <h2>My Projects</h2>
 
- <div style="width:290px">Projects</div> | <div style="width:290px">Description</div> | <div style="width:290px">Link</div>
+ Projects | <div style="width:290px">Description</div> | <div style="width:290px">Link</div>
  --- | --- | ---
  🕵️ KafkaInsight | Simulating A Real Time Monitoring System | https://github.com/kevinchs0808/KafkaInsight/tree/main
  🔀 HyperSpark | Parallelizing Your Model Finetuning | https://github.com/kevinchs0808/HyperSpark/tree/main
