@@ -2,6 +2,12 @@
 
 <h2>Work Experience</h2>
 
+<p align="center">
+    <img src="./images/JNJ.png" hspace="10" >
+    <img src="./images/singapore-airlines.png" hspace="10" >
+    <img src="./images/tsc-ai.png" hspace="10" >
+    <img src="./images/moaah.png" hspace="10" >
+</p>
 
 <h2>My Projects</h2>
 
