@@ -1,4 +1,8 @@
-Hi there 👋, My name is **Kevin Christian**, originally from 🇮🇩 **Indonesia**. I am currently a final year student of Data Science & Analytics at 🇸🇬 **NUS**. Feel free to visit my LinkedIn Profile for more information: https://www.linkedin.com/in/kevinchs0808/
+Hi there 👋, My name is **Kevin Christian**, originally from 🇮🇩 **Indonesia**. 
+
+I am currently a final year student of Data Science & Analytics at 🇸🇬 **NUS**. 
+
+Feel free to visit my LinkedIn Profile for more information: https://www.linkedin.com/in/kevinchs0808/
 
 <h2>Work Experience</h2>
 
