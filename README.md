@@ -11,12 +11,12 @@
 
 <h2>My Projects</h2>
 
- Projects | <div style="width:290px">Description</div> | <div style="width:290px">Link</div>
+ Projects | <div style="width:1000px">Description</div> | <div style="width:290px">Link</div>
  --- | --- | ---
  🕵️ KafkaInsight | Simulating A Real Time Monitoring System | https://github.com/kevinchs0808/KafkaInsight/tree/main
  🔀 HyperSpark | Parallelizing Your Model Finetuning | https://github.com/kevinchs0808/HyperSpark/tree/main
  💹 AlphaTrustNet | Fraud Ranking System on Alpha Bitcoin's Investors Network | https://github.com/kevinchs0808/AlphaTrustNet/tree/main
- 🛗 LiftSim | S16 Building Elevator Optimization | S16 Building Elevator Optimization | https://github.com/kevinchs0808/LiftSim
+ 🛗 LiftSim | S16 Building Elevator Optimization | https://github.com/kevinchs0808/LiftSim
  🕸️ Dynamic Bayesian Network | A Probabilistic Graph Network Modelling which can represent relationships of multiple objects that always evolve overtime | https://drive.google.com/file/d/18ShvRHz_c6rVNIWSU0lZ3fBtd_PPGbRf/view
  🏨 Hotel Booking Analytics | To help hotel managers to make the best business decision based on hotel demand trends. | https://github.com/kevinchs0808/Hotel_Booking_Analytics/blob/main/Hotel_Booking_Analytics.pdf
  🎭 TWEMOJI | Predicting Emoji from Tweets | https://github.com/kevinchs0808/CS3244-Twemoji/blob/main/Models/BERT.ipynb
