@@ -17,14 +17,14 @@ Feel free to visit my LinkedIn Profile for more information: https://www.linkedi
 
  Projects | Description | Link
  --- | --- | ---
- 🕵️ KafkaInsight | Simulating A Real Time Monitoring System | https://github.com/kevinchs0808/KafkaInsight/tree/main
- 🔀 HyperSpark | Parallelizing Your Model Finetuning | https://github.com/kevinchs0808/HyperSpark/tree/main
- 💹 AlphaTrustNet | Fraud Ranking System on Alpha Bitcoin's Investors Network | https://github.com/kevinchs0808/AlphaTrustNet/tree/main
- 🛗 LiftSim | S16 Building Elevator Optimization | https://github.com/kevinchs0808/LiftSim
- 🕸️ Dynamic Bayesian Network | A Probabilistic Graph Network Modelling which can represent relationships of multiple objects that always evolve overtime | https://drive.google.com/file/d/18ShvRHz_c6rVNIWSU0lZ3fBtd_PPGbRf/view
- 🏨 Hotel Booking Analytics | To help hotel managers to make the best business decision based on hotel demand trends. | https://github.com/kevinchs0808/Hotel_Booking_Analytics/blob/main/Hotel_Booking_Analytics.pdf
- 🎭 TWEMOJI | Predicting Emoji from Tweets | https://github.com/kevinchs0808/CS3244-Twemoji/blob/main/Models/BERT.ipynb
- 🚗 Vehicle Type Detection | To detect the vehicle type based on a picture | https://github.com/kevinchs0808/Data-Science-Projects/blob/main/Vehicle_Type_Detection.ipynb
+ 🕵️ KafkaInsight | Simulating A Real Time Monitoring System | <a href="https://github.com/kevinchs0808/KafkaInsight/tree/main">🔗</a>
+ 🔀 HyperSpark | Parallelizing Your Model Finetuning | < a href="https://github.com/kevinchs0808/HyperSpark/tree/main">🔗</a>
+ 💹 AlphaTrustNet | Fraud Ranking System on Alpha Bitcoin's Investors Network | <a href="https://github.com/kevinchs0808/AlphaTrustNet/tree/main">🔗</a>
+ 🛗 LiftSim | S16 Building Elevator Optimization | <a href="https://github.com/kevinchs0808/LiftSim">🔗</a>
+ 🕸️ Dynamic Bayesian Network | A Probabilistic Graph Network Modelling which can represent relationships of multiple objects that always evolve overtime | <a href="https://drive.google.com/file/d/18ShvRHz_c6rVNIWSU0lZ3fBtd_PPGbRf/view">🔗</a>
+ 🏨 Hotel Booking Analytics | To help hotel managers to make the best business decision based on hotel demand trends. | <a href="https://github.com/kevinchs0808/Hotel_Booking_Analytics/blob/main/Hotel_Booking_Analytics.pdf">🔗</a>
+ 🎭 TWEMOJI | Predicting Emoji from Tweets | <a href="https://github.com/kevinchs0808/CS3244-Twemoji/blob/main/Models/BERT.ipynb">🔗</a>
+ 🚗 Vehicle Type Detection | To detect the vehicle type based on a picture | <a href="https://github.com/kevinchs0808/Data-Science-Projects/blob/main/Vehicle_Type_Detection.ipynb">🔗</a>
 
 <h2>My Skills</h2>
 
