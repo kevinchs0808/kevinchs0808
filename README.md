@@ -18,7 +18,7 @@ Feel free to visit my LinkedIn Profile for more information: https://www.linkedi
  Projects | Description | Link
  --- | --- | ---
  🕵️ KafkaInsight | Simulating A Real Time Monitoring System | <a href="https://github.com/kevinchs0808/KafkaInsight/tree/main">🔗</a>
- 🔀 HyperSpark | Parallelizing Your Model Finetuning | < a href="https://github.com/kevinchs0808/HyperSpark/tree/main">🔗</a>
+ 🔀 HyperSpark | Parallelizing Your Model Finetuning | <a href="https://github.com/kevinchs0808/HyperSpark/tree/main">🔗</a>
  💹 AlphaTrustNet | Fraud Ranking System on Alpha Bitcoin's Investors Network | <a href="https://github.com/kevinchs0808/AlphaTrustNet/tree/main">🔗</a>
  🛗 LiftSim | S16 Building Elevator Optimization | <a href="https://github.com/kevinchs0808/LiftSim">🔗</a>
  🕸️ Dynamic Bayesian Network | A Probabilistic Graph Network Modelling which can represent relationships of multiple objects that always evolve overtime | <a href="https://drive.google.com/file/d/18ShvRHz_c6rVNIWSU0lZ3fBtd_PPGbRf/view">🔗</a>
