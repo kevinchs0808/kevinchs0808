@@ -3,10 +3,10 @@
 <h2>Work Experience</h2>
 
 <p align="center">
-    <img src="./images/JNJ.png" hspace="50" width='150'>
-    <img src="./images/singapore-airlines.png" hspace="50" width='150'>
-    <img src="./images/tsc-ai.png" hspace="50" width='150'>
-    <img src="./images/moaah.png" hspace="50" width='150'>
+    <img src="./images/JNJ.png" hspace="20" width='100'>
+    <img src="./images/singapore-airlines.png" hspace="20" width='100'>
+    <img src="./images/tsc-ai.png" hspace="20" width='100'>
+    <img src="./images/moaah.png" hspace="20" width='100'>
 </p>
 
 <h2>My Projects</h2>
