@@ -16,6 +16,7 @@ Feel free to visit my LinkedIn Profile for more information: https://www.linkedi
 
  Projects | Description | Link
  --- | --- | ---
+ 🎵 Song Recommendation System | To improve user satisfaction by providing personalized songs suggestion | <a href="https://github.com/kevinchs0808/KafkaInsight/tree/main">🔗</a>
  🕵️ KafkaInsight | Simulating A Real Time Monitoring System | <a href="https://github.com/kevinchs0808/KafkaInsight/tree/main">🔗</a>
  🔀 HyperSpark | Parallelizing Your Model Finetuning | <a href="https://github.com/kevinchs0808/HyperSpark/tree/main">🔗</a>
  💹 AlphaTrustNet | Fraud Ranking System on Alpha Bitcoin's Investors Network | <a href="https://github.com/kevinchs0808/AlphaTrustNet/tree/main">🔗</a>
