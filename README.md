@@ -16,6 +16,7 @@ Feel free to visit my LinkedIn Profile for more information: https://www.linkedi
 
  Projects | Description | Link
  --- | --- | ---
+ 🧑‍🎤 GuessCountry | LastFM Social Network's Country Prediction | <a href="https://github.com/kevinchs0808/GuessCountry">🔗</a>
  ⛽ VizOil | Data Analytics for Investment & Export Strategies in The Oil & Gas Industry | <a href="https://github.com/kevinchs0808/VizOil">🔗</a>
  🛡️ Insurance Claim Fraud Detection | To minimize the number of fraudulent insurance claims and maintain company’s reputation | <a href="https://github.com/kevinchs0808/DSA4263-Project">🔗</a>
  🎵 Song Recommendation System | To improve user satisfaction by providing personalized songs suggestion | <a href="https://github.com/kevinchs0808/dsa4212/tree/main/colab-filter/bipartite-graph">🔗</a>
