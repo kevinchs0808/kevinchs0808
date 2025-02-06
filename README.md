@@ -1,6 +1,8 @@
 Hi there 👋, My name is **Kevin Christian**, originally from 🇮🇩 **Indonesia**. 
 
-I am currently a final year student of Data Science & Analytics at 🇸🇬 **NUS**. 
+Currently, I am working as a Risk Data Scientist at **Cermati Fintech Group**
+
+I was a Data Science Graduate from 🇸🇬 **NUS** (Honours - Distinction). 
 
 Feel free to visit my LinkedIn Profile for more information: https://www.linkedin.com/in/kevinchs0808/
 
