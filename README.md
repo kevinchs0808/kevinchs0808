@@ -17,6 +17,7 @@ Feel free to visit my LinkedIn Profile for more information: https://www.linkedi
 
  Projects | Description | Link
  --- | --- | ---
+ 🚗 RideBatch | A Data Pipeline for Generating Monthly Report of a Ride Hailing Company | <a href="https://github.com/kevinchs0808/RideBatch">🔗</a>
  🧑‍🎤 GuessCountry | LastFM Social Network's Country Prediction | <a href="https://github.com/kevinchs0808/GuessCountry">🔗</a>
  ⛽ VizOil | Data Analytics for Investment & Export Strategies in The Oil & Gas Industry | <a href="https://github.com/kevinchs0808/VizOil">🔗</a>
  🛡️ Insurance Claim Fraud Detection | To minimize the number of fraudulent insurance claims and maintain company’s reputation | <a href="https://github.com/kevinchs0808/DSA4263-Project">🔗</a>
@@ -28,7 +29,7 @@ Feel free to visit my LinkedIn Profile for more information: https://www.linkedi
  🕸️ Dynamic Bayesian Network | A Probabilistic Graph Network Modelling which can represent relationships of multiple objects that always evolve overtime | <a href="https://drive.google.com/file/d/18ShvRHz_c6rVNIWSU0lZ3fBtd_PPGbRf/view">🔗</a>
  🏨 Hotel Booking Analytics | To help hotel managers to make the best business decision based on hotel demand trends. | <a href="https://github.com/kevinchs0808/Hotel_Booking_Analytics/blob/main/Hotel_Booking_Analytics.pdf">🔗</a>
  🎭 TWEMOJI | Predicting Emoji from Tweets | <a href="https://github.com/kevinchs0808/CS3244-Twemoji/blob/main/Models/BERT.ipynb">🔗</a>
- 🚗 Vehicle Type Detection | To detect the vehicle type based on a picture | <a href="https://github.com/kevinchs0808/Data-Science-Projects/blob/main/Vehicle_Type_Detection.ipynb">🔗</a>
+ 🚚 Vehicle Type Detection | To detect the vehicle type based on a picture | <a href="https://github.com/kevinchs0808/Data-Science-Projects/blob/main/Vehicle_Type_Detection.ipynb">🔗</a>
 
 <h2>My Skills</h2>
 
