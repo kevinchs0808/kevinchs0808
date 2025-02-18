@@ -17,7 +17,7 @@ Feel free to visit my LinkedIn Profile for more information: https://www.linkedi
 
  Projects | Description | Link
  --- | --- | ---
- 🚗 RideBatch | A Data Pipeline for Generating Monthly Report of a Ride Hailing Company | <a href="https://github.com/kevinchs0808/RideBatch">🔗</a>
+ 🚗 RideNetwork | Exploring the journey of ride-hailing across New York City | <a href="https://github.com/kevinchs0808/RideNetwork">🔗</a>
  🧑‍🎤 GuessCountry | LastFM Social Network's Country Prediction | <a href="https://github.com/kevinchs0808/GuessCountry">🔗</a>
  ⛽ VizOil | Data Analytics for Investment & Export Strategies in The Oil & Gas Industry | <a href="https://github.com/kevinchs0808/VizOil">🔗</a>
  🛡️ Insurance Claim Fraud Detection | To minimize the number of fraudulent insurance claims and maintain company’s reputation | <a href="https://github.com/kevinchs0808/DSA4263-Project">🔗</a>
