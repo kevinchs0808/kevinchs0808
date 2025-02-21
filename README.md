@@ -1,4 +1,4 @@
-Hi there 👋, My name is **Kevin Christian**, a Data Science Graduate from 🇸🇬 **NUS** (Honours - Distinction). . 
+Hi there 👋, My name is **Kevin Christian**, a Data Science Graduate from 🇸🇬 **NUS** (Honours - Distinction). 
 
 Currently, I am working as a Risk Data Scientist at **Cermati Fintech Group**
 
