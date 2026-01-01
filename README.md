@@ -1,6 +1,6 @@
 Hi there 👋, My name is **Kevin Christian**, a Data Science Graduate from 🇸🇬 **NUS** (Honours - Distinction). 
 
-Currently, I am working as a Risk Data Scientist at **Cermati Fintech Group**
+Currently, I am working as a Credit Risk Strategy Associate at **Sea Group**
 
 Feel free to visit my LinkedIn Profile for more information: https://www.linkedin.com/in/kevinchs0808/
 
@@ -8,7 +8,7 @@ Feel free to visit my LinkedIn Profile for more information: https://www.linkedi
 
 <p align="center">
   <a href="https://www.sea.com" align="center"><img src="./images/sea.jpg" hspace="20" width='240'></a>
-  <a href="https://www.jnj.com/discover-j-j" align="center"><img src="./images/JNJ.png" hspace="20" width='120'></a>
+  <a href="https://www.jnj.com/discover-j-j" align="center"><img src="./images/JNJ.png" hspace="30" width='120'></a>
   <a href="https://www.singaporeair.com/" align="center"><img src="./images/singapore-airlines.png" hspace="20" width='120'></a>
 </p>
 <h2>My Projects</h2>
