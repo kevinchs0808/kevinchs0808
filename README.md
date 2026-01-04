@@ -8,7 +8,7 @@ Feel free to visit my LinkedIn Profile for more information: https://www.linkedi
 
 <p align="center">
   <a href="https://www.sea.com" align="center"><img src="./images/sea.jpg" hspace="20" width='240'></a>
-  <a href="https://www.jnj.com/discover-j-j" align="center"><img src="./images/JNJ.png" hspace="30" width='120'></a>
+  <a href="https://www.jnj.com/discover-j-j" align="center"><img src="./images/JNJ.png" hspace="50" width='120'></a>
   <a href="https://www.singaporeair.com/" align="center"><img src="./images/singapore-airlines.png" hspace="20" width='120'></a>
 </p>
 <h2>My Projects</h2>
